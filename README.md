@@ -1,3 +1,3 @@
-# Exerc-cio-ultima-school
+# Exercício-ultima-school
 Exercício ultima school
 PROJETO PARA CRIÇÃO DE ARQUIVOS JAVASCRIPT COM HTML INCORPORADO, EXTERNO OU JAVASCRIPT PURO COM NODE
